@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Puneet+Kandpal!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇨🇦</h3>
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an Inventory Management System**
+ 🔭 I’m currently working on **Developing an Inventory Management System for leading medical implant supplier based in the United States.**
  
  🌱 I’m currently learning **Zustand, Next.Js, figma**
 
  💬 Ask me about **Next.Js, React.Js, GraphQL, Node.js, PostGreSQL, Prisma, ShadCN...**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **The world's first computer mouse was made out of wood**
  
  </div>
 
