@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Developing an Inventory Management System for leading medical implant supplier based in the United States.**
+ 🔭 I’m currently Developing an **Inventory Management System for leading US based medical implant supplier.**
  
  🌱 I’m currently learning **Zustand, Next.Js, figma**
 
